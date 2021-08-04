@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alexfdez1010
 - 👀 I’m interested in quantum computing, algorithms, artificial intelligence and cryptograpy
 - 🌱 I’m currently studying Software Engineering
--  I’m working in Google Summer of Code
+- 💻 I’m currently working in Google Summer of Code
