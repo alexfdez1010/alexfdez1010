@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Deep Learning** projects and **Data Science**.
 - 🌱 I’m currently learning **Reinforcement Learning** and **Game Theory**.
 - 👯 I’m looking to collaborate on projects related to **Machine Learning** and **Data Science**.
-- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/alejandro-fernández-camello/]
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alejandro-fernández-camello/)
 - ⚡ Fun fact: I love 🎮 video games and 📕 reading.
 
 ## 🛠️ Skills & Tools
@@ -42,10 +42,18 @@
 
 ## 📈 My GitHub Stats
 
-![Your_Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexfdez1010&show_icons=true&theme=radical)
+![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexfdez1010&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexfdez1010&theme=radical)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexfdez1010&layout=compact&theme=radical)
 
+<p align="center">
+  <a href="https://github.com/alexfdez1010">
+    <img src="https://ghchart.rshah.org/alexfdez1010" alt="Alejandro's Github chart" />
+  </a>
+</p>
+
 ## 🤝 Let's Connect!
 
-- [LinkedIn]([https://www.linkedin.com/in/alejandro-fernández-camello/]
+- [LinkedIn](https://www.linkedin.com/in/alejandro-fernández-camello/)
