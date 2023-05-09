@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Alejandro!
 
 ![](https://komarev.com/ghpvc/?username=alexfdez1010&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/alexfdez1010?style=social)
 
 👨‍💻 I'm a Software Engineer passionate about **Data Science** and **Artificial Intelligence**.
 
