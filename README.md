@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Deep Learning** projects and **Data Science**.
 - 🌱 I’m currently learning **Reinforcement Learning** and **Game Theory**.
 - 👯 I’m looking to collaborate on projects related to **Machine Learning** and **Data Science**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alejandro-fernández-camello/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alejandro-fernández-camello-0707a41b3/)
 - ⚡ Fun fact: I love 🎮 video games and 📕 reading.
 
 ## 🛠️ Skills & Tools
@@ -50,4 +50,4 @@
 
 ## 🤝 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/alejandro-fernández-camello/)
+- [LinkedIn](https://www.linkedin.com/in/alejandro-fernández-camello-0707a41b3/)
