@@ -48,12 +48,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexfdez1010&layout=compact&theme=radical)
 
-<p align="center">
-  <a href="https://github.com/alexfdez1010">
-    <img src="https://ghchart.rshah.org/alexfdez1010" alt="Alejandro's Github chart" />
-  </a>
-</p>
-
 ## 🤝 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/alejandro-fernández-camello/)
