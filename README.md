@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Alejandro!
 
+![](https://komarev.com/ghpvc/?username=alexfdez1010&color=blue)
+
 👨‍💻 I'm a Software Engineer passionate about **Data Science** and **Artificial Intelligence**.
 
 ## 🌟 About Me
