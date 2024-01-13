@@ -19,31 +19,25 @@
 
 - Python
 - Rust
-- SQL
-- C
-- HTML
-- CSS
+- Typescript
 - JavaScript
 
 ### 🧰 Libraries & Frameworks
 
 - PyTorch
 - PyTorch Lighting
-- Scikit-Learn
-- Pandas
-- Numpy
-- Matplotlib
-- Streamlit
+- React
+- Astro
 
 ### 🖥️ IDEs & Tools
 
-- PyCharm
-- CLion
-- WebStorm
+- VSCode
 - Git
 - Docker
 
 ## 📈 My GitHub Stats
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/alexfdez1010/langs)](https://githubtrends.io)
 
 ![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexfdez1010&show_icons=true)
 
