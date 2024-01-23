@@ -19,32 +19,25 @@
 
 - Python
 - Rust
-- Typescript
+- TypeScript
 - JavaScript
+- CSS
+- HTML
 
 ### 🧰 Libraries & Frameworks
 
 - PyTorch
 - PyTorch Lighting
+- Hugging Face
 - React
 - Astro
-
-### 🖥️ IDEs & Tools
-
-- VSCode
-- Git
-- Docker
 
 ## 📈 My GitHub Stats
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/alexfdez1010/langs)](https://githubtrends.io)
-
 ![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexfdez1010&show_icons=true)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexfdez1010)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexfdez1010)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexfdez1010)
 
 ## 🤝 Let's Connect!
