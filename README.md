@@ -13,7 +13,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alejandro-fernández-camello-0707a41b3/)
 - ⚡ Fun fact: I love 📕 reading and 🎮 video games.
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills
 
 ### 🔧 Languages
 
