@@ -31,6 +31,7 @@
 - Hugging Face
 - React
 - Astro
+- Next.js
 
 ## 📈 My GitHub Stats
 
