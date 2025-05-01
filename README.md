@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Alejandro!
 
-![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexfdez10101212%2Fhit-counter)
-![GitHub followers](https://img.shields.io/github/followers/alexfdez1010?style=social)
-
 👨‍💻 I'm a Software Engineer passionate about **Data Science** and **Artificial Intelligence**.
 
 ## 🌟 About Me
